@@ -2,8 +2,6 @@
 
 # DARK - HTTP Unbearable Load King
 
-#
-
 # this is a DoS (Denial os service) tool that is meant to put heavy load on HTTP servers in order to bring them down.
 
 # to their knees by exhausting the resource pool, its is meant for research purposes only
